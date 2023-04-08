@@ -1,0 +1,202 @@
+Python 3.9.7 (tags/v3.9.7:1016ef3, Aug 30 2021, 20:19:38) [MSC v.1929 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+========== RESTART: C:\Users\DELL\Desktop\CS Project\Lib management.py =========
+❋❃❋❃❋❃❋WELCOME TO SAMAMSO LIBRARY MANAGEMENT SYSTEM̳!̳❋❃❋❃❋❃❋
+➭Press 1 if you are already a member.
+➭Press 2 if you are a newcomer.
+Enter your choice (1 OR 2): 2
+1 - Display Books
+2 - Create membership account
+Enter your choice:2
+Enter Your Name: Sanjay
+Enter Your Age: 50
+Enter Your Gender: Male
+Enter 10-Digit Phone Number: 7543298602
+Create a password: Sanjay@123
+                Account Created Successfully!
+❋❃❋❃❋Thank you for creating account in Samamso Library!❋❃❋❃❋
+>>> 
+==================================== RESTART: C:\Users\DELL\Desktop\CS Project\Lib management.py ====================================
+❋❃❋❃❋❃❋WELCOME TO SAMAMSO LIBRARY MANAGEMENT SYSTEM̳!̳❋❃❋❃❋❃❋
+➭Press 1 if you are already a member.
+➭Press 2 if you are a newcomer.
+Enter your choice (1 OR 2): 1
+Enter your Registered Name: Sanjay
+Enter Registered Password: Sanjay@123
+ Login successful! 
+---:Browse our Menu:---
+1 - Display Books
+2 - Issue Book
+3 - Return Book
+4 - Donate Books
+5 - Show my book record
+6 - Logout
+
+
+Enter your Choice: 1
+❋❃❋❃❋ Please select one genre from the following ❋❃❋❃❋
+1-Horror
+2-Fantasy
+3- Biography & Autobiography
+4-Humor
+5-Sci-fi
+Enter Your Choice: 5
+1. dune
+2. martha well
+3. the long way to a small angry planet
+4. brave new world
+5. children of times
+6. hyperion
+7. a memory called empire
+
+---:Browse our Menu:---
+1 - Display Books
+2 - Issue Book
+3 - Return Book
+4 - Donate Books
+5 - Show my book record
+6 - Logout
+
+
+Enter your Choice: 4
+❋❃❋❃❋WELCOME TO THE DONATIONS SECTION!❋❃❋❃❋
+We have the following genres for our Public Library:
+                    ➭Horror
+                    ➭Fantasy
+                    ➭Biography & Autobiography
+                    ➭Humor
+                    ➭Sci-fi
+-----Please fill the following details to donate books-----
+Enter book name: Lucky Jim
+Enter quantity of the book: 3
+Book belongs to which genre? Humor
+Do you want to donate more books?(yes/no) yes
+Enter book name: Harry Potter and Chamber of Secrets
+Enter quantity of the book: 2
+Book belongs to which genre? Fantasy
+Do you want to donate more books?(yes/no) no
+Thank You for donating books to the Public Library!
+---:Browse our Menu:---
+1 - Display Books
+2 - Issue Book
+3 - Return Book
+4 - Donate Books
+5 - Show my book record
+6 - Logout
+
+
+Enter your Choice: 1
+❋❃❋❃❋ Please select one genre from the following ❋❃❋❃❋
+1-Horror
+2-Fantasy
+3- Biography & Autobiography
+4-Humor
+5-Sci-fi
+Enter Your Choice: 3
+1. m.k.gandhi
+2. wings of fire 
+3. alexader hamilton 
+4. an indian spy in pakistan 
+5. unfinished 
+6. why not me?
+7. the kargil girl
+8. a girl that had to be strong
+9.Churchill
+10.Einstein
+11.The Long Hard Road Out Of Hell
+12.Long Walk To Freedom
+
+
+                       
+
+---:Browse our Menu:---
+1 - Display Books
+2 - Issue Book
+3 - Return Book
+4 - Donate Books
+5 - Show my book record
+6 - Logout
+
+
+Enter your Choice: 2
+Enter Your Name (In Small Letters)sanjay
+Enter Book to be Issued:Einstein
+Enter Genrebio
+Enter date of issue:22-01-2022
+Book issued successfully
+
+---:Browse our Menu:---
+1 - Display Books
+2 - Issue Book
+3 - Return Book
+4 - Donate Books
+5 - Show my book record
+6 - Logout
+
+
+Enter your Choice: 5
+Enter your name (in small letters)sanjay
+This is the detailed record of sanjay :-
+Einstein---Issued---22-01-2022
+
+---:Browse our Menu:---
+1 - Display Books
+2 - Issue Book
+3 - Return Book
+4 - Donate Books
+5 - Show my book record
+6 - Logout
+
+
+Enter your Choice: 2
+Enter Your Name (In Small Letters)sanjay
+Enter Book to be Issued:hyperion
+Enter Genrescifi
+Enter date of issue:24-01-2022
+Book issued successfully
+
+---:Browse our Menu:---
+1 - Display Books
+2 - Issue Book
+3 - Return Book
+4 - Donate Books
+5 - Show my book record
+6 - Logout
+
+
+Enter your Choice: 3
+Enter Your Name: Sanjay
+Enter Book to be ReturnedEinstein
+Book returned successfully!
+Thank You for returning book on time!
+
+---:Browse our Menu:---
+1 - Display Books
+2 - Issue Book
+3 - Return Book
+4 - Donate Books
+5 - Show my book record
+6 - Logout
+
+
+Enter your Choice: 5
+Enter your name (in small letters)sanjay
+This is the detailed record of sanjay :-
+Einstein---returned---22-01-2022
+hyperion---Issued---24-01-2022
+
+---:Browse our Menu:---
+1 - Display Books
+2 - Issue Book
+3 - Return Book
+4 - Donate Books
+5 - Show my book record
+6 - Logout
+
+
+Enter your Choice: 6
+        Thank you for using Samamso Library! We hope you had a good time!
+                    Eagerly waiting for your next visit!
+-❃-❃-❃-❃-❃-❃-❃-❃-❃-❃-❃-❃-❃-❃-❃-❃-❃-❃-❃-❃-❃-❃-❃-❃-❃-❃--❃-❃-❃-❃-  
+>>> 
